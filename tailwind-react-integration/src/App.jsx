@@ -1,4 +1,6 @@
 // src/App.js
+
+// src/App.js
 import UserProfile from './components/UserProfile';
 
 function App() {
@@ -8,6 +10,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;
