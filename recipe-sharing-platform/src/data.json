@@ -4,12 +4,47 @@
       "id": 1,
       "title": "Spaghetti Carbonara",
       "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+      "ingredients": [
+        "400g spaghetti",
+        "200g bacon",
+        "4 eggs",
+        "100g Parmesan cheese",
+        "Freshly ground black pepper"
+      ],
+      "instructions": [
+        "Cook the spaghetti in boiling salted water until al dente.",
+        "Fry the bacon until crispy.",
+        "In a bowl, whisk the eggs with grated Parmesan cheese.",
+        "Drain the spaghetti and add it to the egg mixture, tossing quickly to coat.",
+        "Add the crispy bacon and freshly ground black pepper."
+      ]
     },
     {
       "id": 2,
       "title": "Chicken Tikka Masala",
       "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+      "ingredients": [
+        "500g chicken breast",
+        "2 tablespoons tikka masala paste",
+        "2 tablespoons yogurt",
+        "2 tablespoons vegetable oil",
+        "1 onion, finely chopped",
+        "2 garlic cloves, minced",
+        "1 tablespoon ginger, grated",
+        "2 tomatoes, chopped",
+        "1 cup chicken broth",
+        "Heavy cream"
+      ],
+      "instructions": [
+        "Cut the chicken breast into bite-sized pieces.",
+        "Marinate the chicken with tikka masala paste and yogurt. Refrigerate for at least 30 minutes.",
+        "Heat oil in a pan and fry the onion, garlic, and ginger until softened.",
+        "Add the tomatoes and cook until the mixture thickens.",
+        "Add the chicken broth and bring to a simmer.",
+        "Add the marinated chicken and cook until the chicken is cooked through.",
+        "Stir in heavy cream to create a smooth and creamy sauce."
+      ]
     }
   ]
