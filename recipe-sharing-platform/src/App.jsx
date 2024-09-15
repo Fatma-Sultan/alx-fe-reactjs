@@ -1,11 +1,11 @@
 // src/App.js
 import './index.css';
+import HomePage from './components/HomePage';
 
 function App() {
   return (
     <div className="App">
-      <h1 className="text-3xl font-bold text-blue-500">Recipe Sharing Platform</h1>
-      <p>Welcome to the Recipe Sharing Platform!</p>
+      <HomePage />
     </div>
   );
 }
