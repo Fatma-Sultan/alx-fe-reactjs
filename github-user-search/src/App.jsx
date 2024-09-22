@@ -1,5 +1,7 @@
+// src/App.jsx
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Search from './components/Search';
 
 function App() {
   return (
@@ -10,8 +12,8 @@ function App() {
         </header>
         <main>
           <Routes>
-            <Route path="/" element={<div>Home</div>} />
-            <Route path="/search" element={<div>Search</div>} />
+            <Route path="/" element={<Search />} />
+            {/* Add additional routes here if needed */}
           </Routes>
         </main>
       </div>
